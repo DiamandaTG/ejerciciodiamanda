@@ -17,27 +17,32 @@
 
  
 * Crear una cuenta libre.
+![](img/Mendeley2.png)
 
 
 <center><img src="img/Mendeley2.png"/ width = 20%></center>
 
 
 * Introducir los datos correspondientes. Posteriormente dar click a continuar. El perfil se ha creado.
-<center><img src=img/Mendeley3.png/ width = 50%></center>
+![](img/Mendeley3.png)
+<center><img src="img/Mendeley3.png"/ width = 20%></center>
 
 * Elegir tu "**status académico**" y "**campo de estudio**".
-<center><img src=img/Mendeley4.png/ width = 50%></center>
-
+![](img/Mendeley4.png)
+<center><img src="img/Mendeley4.png"/ width = 20%></center>
 * Descargar la aplicación.
-<center><img src=img/Mendeley001.png/ width = 50%></center>
+![](img/Mendeley001.png)
+<center><img src="img/Mendeley001.png"/ width = 20%></center>
 * Iniciar el proceso de instalación.
 
 * Finalizar la instalación.
-<center><img src=img/Mendeley006.png/ width = 50%></center>
+![](img/Mendeley006.png)
+<center><img src="img/Mendeley006.png"/ width = 20%></center>
 
 * Ingresar el usuario (correo electrónico) y la contraseña previamente establecida.
 
-<center><img src=img/Mendeley007.png/ width = 50%></center>
+ ![](img/Mendeley007.png
+ <center><img src="img/Mendeley007.png"/ width = 20%></center>
 
 * **Se mostrará una ventana opcional**
 
@@ -50,13 +55,14 @@
 Es importante agregar a la barra de herramientas el marcador de *Mendeley*.        
 
 ![](img/Mendeley00.png)
+<center><img src="img/Mendeley00.png"/ width = 20%></center>
 
 
  
 El *Mendeley* se enlazará con tu software de procesamiento de textos.
 
 ![](img/Mendeley007001.png)
-
+<center><img src="img/Mendeley007001.png"/ width = 20%></center>
 
 
 #####Mendeley se convertirá en la mejor herramienta para citar, ordenar e insertar bibliografía correspondiente a cada trabajo que se realice.
